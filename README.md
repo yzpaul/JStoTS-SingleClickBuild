@@ -1,0 +1,1 @@
+JStoTS-SingleClickBuild
